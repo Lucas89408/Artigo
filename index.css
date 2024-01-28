@@ -1,0 +1,103 @@
+
+
+body {
+    display: flex;
+    background-color: rgba(165, 42, 42, 0.211);
+    align-items: center;
+    flex-direction: column;
+    background-image: url(./fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+h1.titulo {
+    font-size: 50pt;
+    color: rgb(147, 41, 5);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sub-title {
+    color: rgb(146, 55, 55);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.distaque {
+    color: rgb(164, 10, 10);
+}
+
+.text {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sub-title2 {
+    color: rgb(146, 55, 55);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.list {
+    list-style-type: none;
+    color: rgba(49, 14, 14, 0.671);
+    text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+    
+    
+
+.sub-title3 {
+    color: rgb(146, 55, 55);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text2 {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+   position: relative;
+   left: 41%;
+}
+
+.sub-title4 {
+    color: rgb(146, 55, 55);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sub-title5 {
+    color: rgb(116, 76, 25);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol {
+    list-style-type: none;
+    text-align: center;
+    color: rgba(49, 14, 14, 0.671);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sub-title6 {
+    color: rgb(116, 76, 25);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text3 {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Media {
+    position: relative;
+    left: 1.5%;
+}
